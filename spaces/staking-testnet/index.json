@@ -1,0 +1,20 @@
+{
+  "name": "Harmony Testnet",
+  "network": "2",
+  "symbol": "ONE",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x00eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "symbol": "ONE",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0 
+  }
+}
