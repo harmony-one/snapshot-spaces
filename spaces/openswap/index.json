@@ -1,0 +1,23 @@
+{
+  "name": "OpenSwap",
+  "network": "1666600000",
+  "symbol": "oSWAP",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x19aFb2C6e8814040d7e89d33e385fd84EFc44d06",
+        "symbol": "oSWAP",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xb0D8f79162a044fC879710d295Ce42813aEce5c0",
+    "0xe92c953fD0639D2f6dDCC3ddbDBFE1f4fEd6Da70"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
