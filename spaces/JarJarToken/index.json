@@ -1,0 +1,20 @@
+{
+  "name": "JarJarToken",
+  "network": "1666600000",
+  "symbol": "DJJ",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xe3e267b18464f3cee00d2e70e18981648998ae9a",
+        "symbol": "DJJ",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0 
+  }
+}
