@@ -6,7 +6,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x19aFb2C6e8814040d7e89d33e385fd84EFc44d06",
+        "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
         "symbol": "oSWAP",
         "decimals": 18
       }
