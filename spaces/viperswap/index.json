@@ -1,13 +1,13 @@
 {
   "name": "ViperSwap",
   "network": "1666600000",
-  "symbol": "VIPER",
+  "symbol": "ViperVote",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
-        "symbol": "VIPER",
+        "address": "0x8E8A2799C4E2dADe135519341A67A2b0687feA5a",
+        "symbol": "ViperVote",
         "decimals": 18
       }
     }
