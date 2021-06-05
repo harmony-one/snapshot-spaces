@@ -1,20 +1,23 @@
 {
-  "name": "OpenSwap",
+  "name": "Moonity",
   "network": "1666600000",
-  "symbol": "oSWAP",
+  "symbol": "MOONI",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xc0431Ddcc0D213Bf27EcEcA8C2362c0d0208c6DC",
-        "symbol": "oSWAP",
-        "decimals": 18
+        "address": "0x8D4F19bec883Ba20F4f295706C53F760Cd0BC2B0",
+        "symbol": "MOONI",
+        "decimals": 9
       }
     }
   ],
   "members": [
-    "0xb0D8f79162a044fC879710d295Ce42813aEce5c0",
-    "0xe92c953fD0639D2f6dDCC3ddbDBFE1f4fEd6Da70"
+    "0x5E2a132539bbA35F86a07513D4e6e627cFD9B64d",
+    "0xC20157Fa4cc34a5d00a16cbA9226Da6734FD6b6a",
+    "0xCFE8a0410Bc17B061005e4f1951C675e17f594f8",
+    "0xeC6070213d1004619fbE3806999C6d43fA5298D2",
+    "0x1a7671dF354a3fbb6bAD914AE4aF627851E8f0cD"
   ],
   "filters": {
     "defaultTab": "all",
