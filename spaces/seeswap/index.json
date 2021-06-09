@@ -1,0 +1,23 @@
+{
+  "name": "SeeSWAP",
+  "network": "1666600000",
+  "symbol": "SEE",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7fA202fdb3B0eCB975119cc3A895BFB3104aDA68",
+        "symbol": "SEE",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x98e158f49803fa6b54e755f0b89a1c8c9591bb5e",
+    "0xD7ad9D6D54f496523BCF7a52452641B7220f2eD0"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}

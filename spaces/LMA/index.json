@@ -1,0 +1,24 @@
+{
+  "name": "LMA-Art-Gallery",
+  "network": "1666600000",
+  "symbol": "LMA",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
+        "symbol": "LMA",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x98e158f49803fa6b54e755f0b89a1c8c9591bb5e",
+    "0xe83e2b2fc193ac7c999731204a27b9b9047ad69c",
+    "0x8305cf9efa27c72a547b218dd0b2cc18dd9316f0"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
