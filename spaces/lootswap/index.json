@@ -1,0 +1,23 @@
+{
+  "name": "LootSwap",
+  "network": "1666600000",
+  "symbol": "LOOT-LP",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xa2DEBc3Cbe088Fff2bEdE17aC67eF5f285845038",
+        "symbol": "LOOT-LP",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x5e0c2f03ea46bc63fb1640cd53c8bfe5f5bbc44f",
+    "0x743c8478c04f0d348bdc77660f204e36bfe67e8f"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
