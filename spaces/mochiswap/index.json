@@ -1,0 +1,20 @@
+{
+  "name": "MochiSwap",
+  "network": "1666600000",
+  "symbol": "hMOCHI",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
+        "symbol": "hMOCHI",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
