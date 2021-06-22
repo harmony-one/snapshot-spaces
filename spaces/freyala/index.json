@@ -1,0 +1,23 @@
+{
+  "name": "Freyala",
+  "network": "1666600000",
+  "symbol": "XYA",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+        "symbol": "XYA",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x2a23Ee4D575499ec9AC58dCfD3960C5D3f1F0d3B",
+    "0xB0b9A0B9B0FA21AD39835f1671C43EF7A3E57879"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
