@@ -1,0 +1,32 @@
+{
+  "name": "Harmony Community DAO",
+  "network": "1",
+  "symbol": "ONE",
+  "strategies": [{
+    "name": "eth-balance",
+    "params": {
+      "symbol": "ONE",
+      "decimals": 18
+    }
+  }, {
+    "name": "api",
+    "params": {
+      "api": "https://snapshot.hmny.io/api",
+      "strategy": "harmony/staked",
+      "decimals": 18,
+      "symbol": "staked ONE"
+    }
+  }],
+  "members": [
+    "0x98e158f49803fa6b54e755f0b89a1c8c9591bb5e",
+    "0xb337c6372C0cd1feF25385C32c128404450f4871",
+    "0xdbaCaC7D736B18bf2B400f637Ac6bD3feD8dEA78",
+    "0x8F6f89178a94D2ebc921Edee84D8989a5Ac0029b",
+    "0x4EF8D3592164393D23FdAA4796e427fC30A0F3E5",
+    "0x07f73bEdC968a7925b5fCc7452D73826aD23A08C"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
