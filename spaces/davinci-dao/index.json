@@ -1,0 +1,28 @@
+{
+  "name": "DaVinci DAO",
+  "network": "1666600000",
+  "symbol": "VINCI",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
+        "symbol": "VINCI",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+  	"0x0817ac1589813ca9c3aee5305c65ab751961a9d8",
+  	"0x244546825eb075206729dc4b67729e6b9b1c98cc",
+  	"0xb337c6372C0cd1feF25385C32c128404450f4871",
+  	"0x95f6a7d4309b8e70f139394d25e3af6045b36d02",
+  	"0x671a117964b9f086b8ad3bedd2e7edc07d5328a6",
+    "0x758C8587b5579B9F827A7bcd1c95faC64359e30C",
+  	"0xD7ad9D6D54f496523BCF7a52452641B7220f2eD0"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0 
+  }
+}
