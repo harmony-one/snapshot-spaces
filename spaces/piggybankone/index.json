@@ -1,0 +1,22 @@
+{
+  "name": "Piggybankone",
+  "network": "1666600000",
+  "symbol": "COINK",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x4970417a897Cc7ae812b9b8Db34bb44833C26739",
+        "symbol": "COINK",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xFB3F4711b7a84e116087d23b3f30d11aE79C3612"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
