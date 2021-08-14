@@ -1,20 +1,20 @@
 {
-  "name": "LootSwap",
+  "name": "Bard",
   "network": "1666600000",
-  "symbol": "aLOOT",
+  "symbol": "BARD",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xA15C7828Ab22D182383A84F828Cd71Ac09Bb55E8",
-        "symbol": "aLOOT",
+        "address": "0x69f4e54C666f7DDaf66D11876f557EC21cB65F35",
+        "symbol": "BARD",
         "decimals": 18
       }
     }
   ],
   "members": [
     "0x5e0c2f03ea46bc63fb1640cd53c8bfe5f5bbc44f",
-    "0x743c8478c04f0d348bdc77660f204e36bfe67e8f"
+    "0x079Ce2ECEeDd1812c5cE01AD4AaE37e92e6c63cd"
   ],
   "filters": {
     "defaultTab": "all",
