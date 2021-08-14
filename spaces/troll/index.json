@@ -1,0 +1,25 @@
+{
+  "name": "Troll",
+  "network": "1666600000",
+  "symbol": "TROLL",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x25dceE96FCD63Ad88B812cCE02b3Fcf7d1504F2D",
+        "symbol": "TROLL",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x5e0c2f03ea46bc63fb1640cd53c8bfe5f5bbc44f",
+    "0xe46971B014AaFc772e9637CB4A38b19aE71479A0",
+    "0xbc5295F4C0615D13Bb39DcCe6b9544fC036ad3c4",
+    "0x665D047FA597b4f447A4Fb9887eAEbA4189dEde1"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}

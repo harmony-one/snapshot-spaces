@@ -1,0 +1,24 @@
+{
+  "name": "Arbiter",
+  "network": "1666600000",
+  "symbol": "ARB",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x044246137670A03ca790D7ED20AF0C552c88117c",
+        "symbol": "ARB",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x5e0c2f03ea46bc63fb1640cd53c8bfe5f5bbc44f",
+    "0x6618af3Fe00C0eC3DE8cf3e62d65ef4e01D11759",
+    "0x665D047FA597b4f447A4Fb9887eAEbA4189dEde1"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
