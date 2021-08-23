@@ -1,1 +1,25 @@
-
+{
+  // your project name
+  "name": "Ikura Token",
+  // chain-id for harmony. can not change it
+  "network": "1666600000",
+  "symbol": "ONE",
+  "strategies": [
+    {
+      // statistic method. can not change it
+      "name": "erc20-balance-of",
+      "params": {
+        // your HRC20 token address
+        "address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
+        "symbol": "IKURA",
+        // your HRC20 token decimals
+        "decimals": 9
+      }
+    }
+  ],
+  "members": [],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0 
+  }
+}
