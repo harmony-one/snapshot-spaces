@@ -1,0 +1,20 @@
+{
+  "name": "Ikura Token",
+  "network": "1666600000",
+  "symbol": "IKURA",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
+        "symbol": "IKURA",
+        "decimals": 9
+      }
+    }
+  ],
+  "members": [],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0 
+  }
+}
