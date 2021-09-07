@@ -1,0 +1,25 @@
+{
+    "name": "Defi Kingdoms",
+    "network": "1666600000",
+    "symbol": "xJEWEL",
+    "strategies": [
+        {
+            "name": "erc20-balance-of",
+            "params": {
+                "address": "0xA9cE83507D872C5e1273E745aBcfDa849DAA654F",
+                "symbol": "xJEWEL",
+                "decimals": 18
+            }
+        }
+    ],
+    "members": [
+        "0x17D717EB3DD20a202dce9e8e396A444db1Af1D28",
+        "0xA76Ea4f96136AF0fF23e7CC426Bfc21E451ff9f5",
+        "0x2b45C2dF1E982E596137d49A02afC02B9fb8B8dB",
+        "0x19612e015E6bC4f5C7ba122bd4acA23646414b72"
+    ],
+    "filters": {
+        "defaultTab": "all",
+        "minScore": 0
+    }
+}
