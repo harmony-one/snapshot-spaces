@@ -1,0 +1,22 @@
+{
+  "name": "CopyPasta",
+  "network": "1666600000",
+  "symbol": "PASTA",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x5903720f0132E8bd48530010d9b3192B25F51D8e",
+        "symbol": "PASTA",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xd6ec65bbc874b6538243326a63f971f4dcbad1b8"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
