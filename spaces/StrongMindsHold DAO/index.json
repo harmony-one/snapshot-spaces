@@ -1,15 +1,11 @@
 {
-  // your project name
   "name": "StrongMindsHold DAO",
-  // chain-id for harmony. can not change it
   "network": "1666600000",
   "symbol": "ONE",
   "strategies": [
     {
-      // statistic method. can not change it
       "name": "erc20-balance-of-delegation",
       "params": {
-        // your HRC20 validator address
         "address": "0xd143988234df9117f4baa00b5f8d4a56d64e56ea",
         "symbol": "ONE",
         "decimals": 18
