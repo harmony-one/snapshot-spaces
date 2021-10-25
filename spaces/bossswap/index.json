@@ -1,0 +1,24 @@
+{
+    "name": "Boss Swap",
+    "network": "1666600000",
+    "symbol": "HYDRA",
+    "strategies": [
+        {
+            "name": "erc20-balance-of",
+            "params": {
+                "address": "0x9814c2392be5412c5de090febeee26693e96c9fa",
+                "symbol": "HYDRA",
+                "decimals": 18
+            }
+        }
+    ],
+    "members": [
+        "0x0448BF292fAFCd6F81d728E926769a2B011956Fe",
+        "0x2eA56c34Fccb8cCc895328E9BC03CC90dc6d6683",
+        "0x812B776e57FD469c5b4B7788a8A8b9C19997B9d7"
+    ],
+    "filters": {
+        "defaultTab": "all",
+        "minScore": 0
+    }
+}
