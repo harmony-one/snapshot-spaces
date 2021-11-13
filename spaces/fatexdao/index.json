@@ -6,7 +6,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x24478D53D3306081Ed88334319C9d0AfddC279bB",
+        "address": "0x43d2Cbe53793DA86FC676A4a69741b1e63AC8b2C",
         "symbol": "FATE-GOV",
         "decimals": 18
       }
