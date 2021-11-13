@@ -1,0 +1,26 @@
+{
+    "name": "Reverse",
+    "network": "1666600000",
+    "symbol": "RVRS",
+    "strategies": [
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0xed0b4b0f0e2c17646682fc98ace09feb99af3ade",
+          "symbol": "RVRS",
+          "decimals": 18
+        }
+      }
+    ],
+    "members": [
+      "0x2b1fBA84FA8397f803d5678FcFfB744cE98FD90C",
+      "0xC7E4bB4951E3683a9a46d4D8A5Eb9DA4EaAd569C",
+      "0xBDAbf9FD5342b4Eab8fE872cCf23205B2258C782",
+      "0xD20B976584bF506BAf5cC604D1f0A1B8D07138dA"
+    ],
+    "filters": {
+      "defaultTab": "all",
+      "minScore": 0
+    }
+  }
+  
