@@ -10,6 +10,12 @@
           "symbol": "RVRS",
           "decimals": 18
         }
+      },
+      {
+        "name": "single-staking-vault-balanceof",
+        "params": {
+          "vaultAddress": "0xc9ed8bfb89f5b5ca965aa8ceaacf75576c06211e"
+        }
       }
     ],
     "members": [
