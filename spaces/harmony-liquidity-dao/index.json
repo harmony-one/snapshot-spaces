@@ -1,0 +1,27 @@
+{
+  "name": "Harmony Liquidity DAO",
+  "network": "1",
+  "symbol": "ONE",
+  "strategies": [{
+    "name": "eth-balance",
+    "params": {
+      "symbol": "ONE",
+      "decimals": 18
+    }
+  }, {
+    "name": "api",
+    "params": {
+      "api": "https://snapshot.hmny.io/api",
+      "strategy": "harmony/staked",
+      "decimals": 18,
+      "symbol": "staked ONE"
+    }
+  }],
+  "members": [
+    "0x9FA3156B802eA7ECFe55173Eafc296f509a28777",
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
