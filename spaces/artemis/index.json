@@ -10,6 +10,12 @@
           "symbol": "MIS",
           "decimals": 18
         }
+      },
+      {
+        "name": "single-staking-vault-balanceof",
+        "params": {
+          "vaultAddress": "0x6aaea0a742056e5a6aa1a428a8ec403c1b964609"
+        }
       }
     ],
     "members": [
