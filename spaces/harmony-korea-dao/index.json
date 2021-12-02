@@ -1,0 +1,27 @@
+{
+  "name": "Harmony Korea DAO",
+  "network": "1",
+  "symbol": "ONE",
+  "strategies": [{
+    "name": "eth-balance",
+    "params": {
+      "symbol": "ONE",
+      "decimals": 18
+    }
+  }, {
+    "name": "api",
+    "params": {
+      "api": "https://snapshot.hmny.io/api",
+      "strategy": "harmony/staked",
+      "decimals": 18,
+      "symbol": "staked ONE"
+    }
+  }],
+  "members": [
+    "0x3EA80c6cb684a4Fc3304aA3F578Cd1d04d82f32a"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
