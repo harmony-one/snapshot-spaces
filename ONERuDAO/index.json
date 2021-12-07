@@ -1,23 +1,25 @@
 {
-  // your project name
+
   "name": "ONERuDAO",
-  // chain-id for harmony. can not change it
+ 
   "network": "1666600000",
   "symbol": "ONE",
   "strategies": [
     {
-      // statistic method. can not change it
+      
       "name": "erc20-balance-of",
       "params": {
-        // your HRC20 token address
+        
         "address": "0x00eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "symbol": "ONE",
-        // your HRC20 token decimals
+    
         "decimals": 18
       }
     }
   ],
-  "members": [],
+  "members": [
+  "0x08b5364B2db48b2c7827d148E2a371C96E07CC19"
+  ],
   "filters": {
     "defaultTab": "all",
     "minScore": 0 
