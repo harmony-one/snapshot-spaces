@@ -1,6 +1,6 @@
 {
   "name": "Harmony Korea DAO",
-  "network": "1",
+  "network": "1666600000",
   "symbol": "ONE",
   "strategies": [{
     "name": "eth-balance",

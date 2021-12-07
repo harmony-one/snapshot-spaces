@@ -1,0 +1,29 @@
+{
+  "name": "ONERuDAO",
+  "network": "1666600000",
+  "symbol": "ONE",
+  "strategies": [
+    {
+      "name": "eth-balance",
+      "params": {
+        "symbol": "ONE",
+        "decimals": 18
+      }
+    }, {
+      "name": "api",
+      "params": {
+        "api": "https://snapshot.hmny.io/api",
+        "strategy": "harmony/staked",
+        "decimals": 18,
+        "symbol": "staked ONE"
+      }
+    }
+  ],
+  "members": [
+    "0x08b5364B2db48b2c7827d148E2a371C96E07CC19"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
