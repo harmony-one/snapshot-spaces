@@ -1,0 +1,27 @@
+{
+
+  "name": "ONERuDAO",
+ 
+  "network": "1666600000",
+  "symbol": "ONE",
+  "strategies": [
+    {
+      
+      "name": "erc20-balance-of",
+      "params": {
+        
+        "address": "0x00eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "symbol": "ONE",
+    
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+  "0x08b5364B2db48b2c7827d148E2a371C96E07CC19"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0 
+  }
+}
