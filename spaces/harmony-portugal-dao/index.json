@@ -1,0 +1,32 @@
+{
+  "name": "Harmony Portugal DAO",
+  "network": "1666600000",
+  "symbol": "ONE",
+  "strategies": [{
+    "name": "eth-balance",
+    "params": {
+      "symbol": "ONE",
+      "decimals": 18
+    }
+  }, {
+    "name": "api",
+    "params": {
+      "api": "https://snapshot.hmny.io/api",
+      "strategy": "harmony/staked",
+      "decimals": 18,
+      "symbol": "staked ONE"
+    }
+  }],
+  "members": [
+    "0x39aa9339Dd6cc481428D537E3cE7676303a77E03",
+    "0xc4C1b6969D7c01bA6d1e1018ad8e02791B072161",
+    "0x4eaDDF3703566FCeBa71A43e4f52868d0DAf7814",
+    "0x65fa76e3089e62Ac2C2Aa77B3ce4bB0B6Dc370Da",
+    "0x5909ca8074F8be5aD1951cB808E62b1811aeE881",
+    "0xc833e4D779912DF3d5D932f57d39d73b77cAE3e9"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
