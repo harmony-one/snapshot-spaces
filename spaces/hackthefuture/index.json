@@ -1,0 +1,30 @@
+{
+  "name": "Hack the Future",
+  "network": "1666600000",
+  "symbol": "ONE",
+  "strategies": [
+    {
+      "name": "eth-balance",
+      "params": {
+        "symbol": "ONE",
+        "decimals": 18
+      }
+    }, {
+      "name": "api",
+      "params": {
+        "api": "https://snapshot.hmny.io/api",
+        "strategy": "harmony/staked",
+        "decimals": 18,
+        "symbol": "staked ONE"
+      }
+    }
+  ],
+  "members": [
+    "0x88DDdC1bE28a3E371E9C0c745ce64C05af9cEd2b",
+    "0xC9bE673cd6BCe62d1Ac1F0d6c5215ABfe8FCF48a"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
