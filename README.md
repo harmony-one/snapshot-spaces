@@ -1,3 +1,5 @@
-#### Harmony Government App Spaces Repo
-##### How to create a new space
-fork this repo. create a new dir named your project name in `spaces`, and contain the files as `example`. submit a PR for it at last.
+#### Harmony Governance App Spaces Repo
+
+########################################################################################
+### PLEASE NOTE: THIS PROJECT HAS BEEN DEPRECATED AND NO LONGER SUPPORTED. [READ MORE](https://medium.com/harmony-one/harmony-snapshot-official-migration-to-snapshot-org-565dade74c2)
+########################################################################################
